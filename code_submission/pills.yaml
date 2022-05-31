@@ -1,0 +1,9 @@
+train: E:/detect_the_difference/images/train
+val:   E:/detect_the_difference/images/val
+test:  E:/detect_the_difference/images/test
+
+# number of classes
+nc: 2
+
+# class names
+names: ["missing","present"]
