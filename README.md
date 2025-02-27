@@ -66,9 +66,9 @@ python code_submission/detect_single.py --image_path path/to/your/image.jpg
 
 <div align="center">
   
-| [![Florian Eder](https://github.com/FlorianEder.png?size=100)](https://github.com/FlorianEder) | [![John Tran](https://github.com/JohniMIEP.png?size=100)](https://github.com/JohniMIEP) | [![Moritz Enderle](https://github.com/THDMoritzEnderle.png?size=100)](https://github.com/THDMoritzEnderle) |
+| [![Florian Eder](https://github.com/FlorianEder.png?size=100)](https://github.com/FlorianEder) | [![John Tran](https://github.com/JohniMIEP.png?size=100)](https://github.com/JohniMIEP) | [![Moritz Enderle](https://github.com/M-Enderle.png?size=100)](https://github.com/M-Enderle) |
 |:---:|:---:|:---:|
-| [Florian Eder](https://github.com/FlorianEder) | [John Tran](https://github.com/JohniMIEP) | [Moritz Enderle](https://github.com/THDMoritzEnderle) |
+| [Florian Eder](https://github.com/FlorianEder) | [John Tran](https://github.com/JohniMIEP) | [Moritz Enderle](https://github.com/M-Enderle) |
 
 </div>
 
